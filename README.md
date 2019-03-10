@@ -1,5 +1,6 @@
 # Embedded_Tensorflow
-A port of Tensorflow Lite for low resource embedded deviecs
+## Overview
+- A port of Tensorflow Lite for low resource embedded deviecs.
 
 ## Rules
 - Make small atomic commits and write good log messages. Use the present tense for commit logs. You can make any number of commits as you like to your local copy as it does not affect the other person's work.
